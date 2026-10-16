@@ -22,7 +22,7 @@ MouseFacetrack ist ein Python-Projekt, das den Mauszeiger mithilfe einer Webcam 
 1. Repository klonen:
 
 ```bash
-git clone https://github.com/DEIN-BENUTZERNAME/MouseFacetrack.git
+git clone https://github.com/Fussbodenteppich/MouseFacetrack.git
 ```
 
 2. Benötigte Bibliotheken installieren:
